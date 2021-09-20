@@ -20,9 +20,8 @@ To get Rogue3D up and running properly, here's what you'll need to do.
 
 ### Prerequisites
 
-Firstly, you will need to download XLaunch
-[XLaunch](https://sourceforge.net/projects/vcxsrv/)
-(I have also left the installer in the XLaunch folder on the repo)
+Firstly, you will need to download [XLaunch](https://sourceforge.net/projects/vcxsrv/)
+(I have also left the installer in the XLaunch folder inside the repo, should the sourceforge go down)
 
 ### Installation and Usage
 
