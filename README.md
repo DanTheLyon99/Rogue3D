@@ -25,10 +25,10 @@ Firstly, you will need to download [XLaunch](https://sourceforge.net/projects/vc
 
 ### Installation and Usage
 
-Once installed, you will need to Open XLaunch, and follow these instructions:
-1.) choose multiple windows, display number:0
-2.) Start no client
-3.) check all boxes in extra settings
+Once installed, you will need to Open XLaunch, and follow these instructions:<br>
+1.) choose multiple windows, display number:0<br>
+2.) Start no client<br>
+3.) check all boxes in extra settings<br>
 4.) finish
 
 Once XLaunch is up and running you're halfway there!
