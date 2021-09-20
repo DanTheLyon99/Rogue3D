@@ -42,6 +42,7 @@ if you don't already have them the command to get them is
 ``sudo apt update`` and then ``sudo apt install build-essential``
 
 ## Console Commands
+To set up the display type `export DISPLAY=localhost:0`
 Type ``make`` and then ``./a1`` to run the program
 BOOM, the game should be up and running now on XLaunch.
 
