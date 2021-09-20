@@ -1931,7 +1931,7 @@ int main(int argc, char **argv)
 
       generateCave();
       saveWorld(-1);
-      wipeWorld();
+      // wipeWorld(); CAUSES SEG FAULT
 
       drawChambers();
       spawnMobs();
