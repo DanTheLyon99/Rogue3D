@@ -43,8 +43,8 @@ if you don't already have them the command to get them is
 
 ## Console Commands
 To set up the display type `export DISPLAY=localhost:0`<br>
-To compile the program type `make` and then `./a1` to run it
-BOOM, the game should be up and running now on XLaunch.
+To compile the program type `make` and then `./a1` to run it<br>
+*BOOM*, the game should be up and running now on XLaunch.
 
 if ever you want to re-format the world files, a1 executible or dungeon structs just type:
 ``make clean`` to remove everything. To run it fresh just  ``make`` and then ``./a1`` again :smile:
