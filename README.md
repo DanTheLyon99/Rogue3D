@@ -5,8 +5,8 @@
     <img src="gifs/IntoCave.gif" alt="IntoCave" width="300" height="250">
     <img src="gifs/IntoDungeon.gif" alt="IntoDungeon" width="300" height="250">
 </p>
-Rogue3D is a revisioning  of the original 1980s dungeon crawler [Rogue](https://en.wikipedia.org/wiki/Rogue_(video_game))
-this project was to seek out and amplify the elements that made the revolutionary game so entertaining all those years ago and 
+Rogue3D is a revisioning  of the original 1980s dungeon crawler Rogue.
+This project was to seek out and amplify the elements that made the revolutionary game so entertaining all those years ago and 
 add a modern *twist* I hope you all enjoy!
 
 ## Built With
