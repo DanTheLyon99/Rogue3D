@@ -42,8 +42,8 @@ if you don't already have them the command to get them is
 ``sudo apt update`` and then ``sudo apt install build-essential``
 
 ## Console Commands
-To set up the display type `export DISPLAY=localhost:0`
-Type ``make`` and then ``./a1`` to run the program
+To set up the display type `export DISPLAY=localhost:0`<br>
+To compile the program type `make` and then `./a1` to run it
 BOOM, the game should be up and running now on XLaunch.
 
 if ever you want to re-format the world files, a1 executible or dungeon structs just type:
