@@ -3,6 +3,12 @@ DOWNLOAD XLaunch: https://sourceforge.net/projects/vcxsrv/
 PREP CONSOLE WITH THE FOLLOWING LINE:
 export DISPLAY=localhost:0
 
+ON XLAUNCH:
+1.) choose multiple windows, display number:0
+2.) Start no client
+3.) check all boxes in extra settings
+4.) finish
+
 CONSOLE:
 Type 'make' and then './a1' to run the program
 type 'make clean' to removes all the world files, dungeon files and a1 executable
