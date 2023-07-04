@@ -16,7 +16,7 @@ add a modern *twist* I hope you all enjoy!
 * [Linux](https://www.linux.org/)
 
 ## Getting Started 
-To get Rogue3D up and running properly, here's what you'll need to do.
+To get Rogue3D up and running properly, here is what you'll need to do.
 
 ### Prerequisites
 
